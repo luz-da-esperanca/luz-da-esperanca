@@ -1,7 +1,7 @@
 # 💛 Luz da Esperança
 
 <p align="center">
-  <img src="https://luzdaesperanca.org/wp-content/uploads/2018/08/Luz-logo-Centro-Espirita-e-Obras-Sociais.png" width="280" alt="Luz da Esperança">
+  <img src="https://luzdaesperanca.org/wp-content/uploads/2018/08/Luz-logo-Centro-Espirita-e-Obras-Sociais.png" width="380" alt="Luz da Esperança">
 </p>
 
 <p align="center">
